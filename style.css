@@ -1,0 +1,28 @@
+.navbar-nav .nav-item .nav-link{
+  color: black;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+  color: black;
+}
+
+.navbar-brand {
+color: black;
+}
+
+.navbar-brand:hover {
+color: #e2e2bd;
+}
+
+.navbar-expand { 
+  background-color:#a3c2c2; 
+} 
+
+h1, p {
+text-align: center;
+}
+
+ul {
+list-style-position: inside;
+text-align: center;
+}
