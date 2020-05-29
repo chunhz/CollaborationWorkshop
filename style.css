@@ -17,7 +17,9 @@ color: #e2e2bd;
 .navbar-expand { 
   background-color:#a3c2c2; 
 } 
-
+.nav-link:hover {
+  color: #e2e2bd;
+}
 h1, p {
 text-align: center;
 }
