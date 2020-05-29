@@ -9,7 +9,11 @@ body{
 .contact-form{
   width: 90%; 
   max-width: 600px;
+<<<<<<< HEAD
   background: antiquewhite;
+=======
+  background: #f1f1f1;
+>>>>>>> Rabe
   position: adsolute; 
   top: 60%; 
   left: 60%; 
